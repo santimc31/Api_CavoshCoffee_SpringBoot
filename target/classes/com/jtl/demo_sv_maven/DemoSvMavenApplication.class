@@ -1,0 +1,8 @@
+Êþº¾   =   ,com/jtl/demo_sv_maven/DemoSvMavenApplication  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this .Lcom/jtl/demo_sv_maven/DemoSvMavenApplication; main ([Ljava/lang/String;)V
+    *org/springframework/boot/SpringApplication   run b(Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext; args [Ljava/lang/String; MethodParameters 
+SourceFile DemoSvMavenApplication.java RuntimeVisibleAnnotations >Lorg/springframework/boot/autoconfigure/SpringBootApplication; !               /     *· ±    
+                    	       6     *¸ W±    
+   
+    
+                                   
